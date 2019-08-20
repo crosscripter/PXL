@@ -1,0 +1,18 @@
+{
+    "wallpaper": "random",
+    "wallpaperTerm": "sky",
+    "splashImage": "https://w.wallhaven.cc/full/dg/wallhaven-dgkvkj.jpg",
+    "apps": [
+        {"name": "Google", "url": "google.com"},
+        {"name": "Spotify", "url": "play.spotify.com"},
+        {"name": "YouTube", "url": "youtube.com"}
+    ],
+    "folders": [
+        {"name": "Social", "children": [
+            {"name": "Facebook", "url": "facebook.com"},
+            {"name": "Instagram", "url": "instagram.com"},
+            {"name": "Twitter", "url": "twitter.com"},
+            {"name": "Reddit", "url": "reddit.com"}                
+        ]}
+    ]
+}
